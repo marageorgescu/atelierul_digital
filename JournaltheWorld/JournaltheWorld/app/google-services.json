@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933659591211",
+    "project_id": "journal-the-world",
+    "storage_bucket": "journal-the-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933659591211:android:54725691c121abd9dbe06e",
+        "android_client_info": {
+          "package_name": "com.example.journaltheworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933659591211-o1u82hep2f21sig2d1oriho74b8guldm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zSG4cfAJa4pbPHEOKsdt_qjGdhe31xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933659591211-o1u82hep2f21sig2d1oriho74b8guldm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
